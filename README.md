@@ -6,7 +6,7 @@
 
 - git log:
 
-          Show the commit history for the currently active branch. 
+           Show the commit history for the currently active branch. 
 
 - git log branchB..branchA:
 
@@ -19,4 +19,7 @@
 
           Shows one or more objects (blobs, trees, tags and commits). 
 
-
+- git remote add origin [url]: 
+          
+          Specifies the remote repository for your local repository. 
+          The url points to a repository on GitHub.
