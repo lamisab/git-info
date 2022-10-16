@@ -6,7 +6,7 @@
 
 - git log:
 
-       >   Show the commit history for the currently active branch. 
+          Show the commit history for the currently active branch. 
 
 - git log branchB..branchA:
 
